@@ -1,0 +1,15 @@
+C:\Users\henri\OneDrive\Documentos\Estudos de programação\puc-minas\Eixo 1\Algoritimos  e logica de programação\C#\Comando switch\bin\Debug\net9.0\Comando switch.exe
+C:\Users\henri\OneDrive\Documentos\Estudos de programação\puc-minas\Eixo 1\Algoritimos  e logica de programação\C#\Comando switch\bin\Debug\net9.0\Comando switch.deps.json
+C:\Users\henri\OneDrive\Documentos\Estudos de programação\puc-minas\Eixo 1\Algoritimos  e logica de programação\C#\Comando switch\bin\Debug\net9.0\Comando switch.runtimeconfig.json
+C:\Users\henri\OneDrive\Documentos\Estudos de programação\puc-minas\Eixo 1\Algoritimos  e logica de programação\C#\Comando switch\bin\Debug\net9.0\Comando switch.dll
+C:\Users\henri\OneDrive\Documentos\Estudos de programação\puc-minas\Eixo 1\Algoritimos  e logica de programação\C#\Comando switch\bin\Debug\net9.0\Comando switch.pdb
+C:\Users\henri\OneDrive\Documentos\Estudos de programação\puc-minas\Eixo 1\Algoritimos  e logica de programação\C#\Comando switch\obj\Debug\net9.0\Comando switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\OneDrive\Documentos\Estudos de programação\puc-minas\Eixo 1\Algoritimos  e logica de programação\C#\Comando switch\obj\Debug\net9.0\Comando switch.AssemblyInfoInputs.cache
+C:\Users\henri\OneDrive\Documentos\Estudos de programação\puc-minas\Eixo 1\Algoritimos  e logica de programação\C#\Comando switch\obj\Debug\net9.0\Comando switch.AssemblyInfo.cs
+C:\Users\henri\OneDrive\Documentos\Estudos de programação\puc-minas\Eixo 1\Algoritimos  e logica de programação\C#\Comando switch\obj\Debug\net9.0\Comando switch.csproj.CoreCompileInputs.cache
+C:\Users\henri\OneDrive\Documentos\Estudos de programação\puc-minas\Eixo 1\Algoritimos  e logica de programação\C#\Comando switch\obj\Debug\net9.0\Comando switch.sourcelink.json
+C:\Users\henri\OneDrive\Documentos\Estudos de programação\puc-minas\Eixo 1\Algoritimos  e logica de programação\C#\Comando switch\obj\Debug\net9.0\Comando switch.dll
+C:\Users\henri\OneDrive\Documentos\Estudos de programação\puc-minas\Eixo 1\Algoritimos  e logica de programação\C#\Comando switch\obj\Debug\net9.0\refint\Comando switch.dll
+C:\Users\henri\OneDrive\Documentos\Estudos de programação\puc-minas\Eixo 1\Algoritimos  e logica de programação\C#\Comando switch\obj\Debug\net9.0\Comando switch.pdb
+C:\Users\henri\OneDrive\Documentos\Estudos de programação\puc-minas\Eixo 1\Algoritimos  e logica de programação\C#\Comando switch\obj\Debug\net9.0\Comando switch.genruntimeconfig.cache
+C:\Users\henri\OneDrive\Documentos\Estudos de programação\puc-minas\Eixo 1\Algoritimos  e logica de programação\C#\Comando switch\obj\Debug\net9.0\ref\Comando switch.dll

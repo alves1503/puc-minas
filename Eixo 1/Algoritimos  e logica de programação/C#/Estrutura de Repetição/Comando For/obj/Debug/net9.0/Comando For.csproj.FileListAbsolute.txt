@@ -1,0 +1,15 @@
+C:\Users\henri\OneDrive\Documentos\Estudos de programação\puc-minas\Eixo 1\Algoritimos  e logica de programação\C#\Estrutura de Repetição\Comando For\bin\Debug\net9.0\Comando For.exe
+C:\Users\henri\OneDrive\Documentos\Estudos de programação\puc-minas\Eixo 1\Algoritimos  e logica de programação\C#\Estrutura de Repetição\Comando For\bin\Debug\net9.0\Comando For.deps.json
+C:\Users\henri\OneDrive\Documentos\Estudos de programação\puc-minas\Eixo 1\Algoritimos  e logica de programação\C#\Estrutura de Repetição\Comando For\bin\Debug\net9.0\Comando For.runtimeconfig.json
+C:\Users\henri\OneDrive\Documentos\Estudos de programação\puc-minas\Eixo 1\Algoritimos  e logica de programação\C#\Estrutura de Repetição\Comando For\bin\Debug\net9.0\Comando For.dll
+C:\Users\henri\OneDrive\Documentos\Estudos de programação\puc-minas\Eixo 1\Algoritimos  e logica de programação\C#\Estrutura de Repetição\Comando For\bin\Debug\net9.0\Comando For.pdb
+C:\Users\henri\OneDrive\Documentos\Estudos de programação\puc-minas\Eixo 1\Algoritimos  e logica de programação\C#\Estrutura de Repetição\Comando For\obj\Debug\net9.0\Comando For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\OneDrive\Documentos\Estudos de programação\puc-minas\Eixo 1\Algoritimos  e logica de programação\C#\Estrutura de Repetição\Comando For\obj\Debug\net9.0\Comando For.AssemblyInfoInputs.cache
+C:\Users\henri\OneDrive\Documentos\Estudos de programação\puc-minas\Eixo 1\Algoritimos  e logica de programação\C#\Estrutura de Repetição\Comando For\obj\Debug\net9.0\Comando For.AssemblyInfo.cs
+C:\Users\henri\OneDrive\Documentos\Estudos de programação\puc-minas\Eixo 1\Algoritimos  e logica de programação\C#\Estrutura de Repetição\Comando For\obj\Debug\net9.0\Comando For.csproj.CoreCompileInputs.cache
+C:\Users\henri\OneDrive\Documentos\Estudos de programação\puc-minas\Eixo 1\Algoritimos  e logica de programação\C#\Estrutura de Repetição\Comando For\obj\Debug\net9.0\Comando For.sourcelink.json
+C:\Users\henri\OneDrive\Documentos\Estudos de programação\puc-minas\Eixo 1\Algoritimos  e logica de programação\C#\Estrutura de Repetição\Comando For\obj\Debug\net9.0\Comando For.dll
+C:\Users\henri\OneDrive\Documentos\Estudos de programação\puc-minas\Eixo 1\Algoritimos  e logica de programação\C#\Estrutura de Repetição\Comando For\obj\Debug\net9.0\refint\Comando For.dll
+C:\Users\henri\OneDrive\Documentos\Estudos de programação\puc-minas\Eixo 1\Algoritimos  e logica de programação\C#\Estrutura de Repetição\Comando For\obj\Debug\net9.0\Comando For.pdb
+C:\Users\henri\OneDrive\Documentos\Estudos de programação\puc-minas\Eixo 1\Algoritimos  e logica de programação\C#\Estrutura de Repetição\Comando For\obj\Debug\net9.0\Comando For.genruntimeconfig.cache
+C:\Users\henri\OneDrive\Documentos\Estudos de programação\puc-minas\Eixo 1\Algoritimos  e logica de programação\C#\Estrutura de Repetição\Comando For\obj\Debug\net9.0\ref\Comando For.dll

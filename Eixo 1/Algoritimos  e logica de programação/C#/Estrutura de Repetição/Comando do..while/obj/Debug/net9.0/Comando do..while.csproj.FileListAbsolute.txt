@@ -1,0 +1,15 @@
+C:\Users\henri\OneDrive\Documentos\Estudos de programação\puc-minas\Eixo 1\Algoritimos  e logica de programação\C#\Estrutura de Repetição\Comando do..while\bin\Debug\net9.0\Comando do..while.exe
+C:\Users\henri\OneDrive\Documentos\Estudos de programação\puc-minas\Eixo 1\Algoritimos  e logica de programação\C#\Estrutura de Repetição\Comando do..while\bin\Debug\net9.0\Comando do..while.deps.json
+C:\Users\henri\OneDrive\Documentos\Estudos de programação\puc-minas\Eixo 1\Algoritimos  e logica de programação\C#\Estrutura de Repetição\Comando do..while\bin\Debug\net9.0\Comando do..while.runtimeconfig.json
+C:\Users\henri\OneDrive\Documentos\Estudos de programação\puc-minas\Eixo 1\Algoritimos  e logica de programação\C#\Estrutura de Repetição\Comando do..while\bin\Debug\net9.0\Comando do..while.dll
+C:\Users\henri\OneDrive\Documentos\Estudos de programação\puc-minas\Eixo 1\Algoritimos  e logica de programação\C#\Estrutura de Repetição\Comando do..while\bin\Debug\net9.0\Comando do..while.pdb
+C:\Users\henri\OneDrive\Documentos\Estudos de programação\puc-minas\Eixo 1\Algoritimos  e logica de programação\C#\Estrutura de Repetição\Comando do..while\obj\Debug\net9.0\Comando do..while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\OneDrive\Documentos\Estudos de programação\puc-minas\Eixo 1\Algoritimos  e logica de programação\C#\Estrutura de Repetição\Comando do..while\obj\Debug\net9.0\Comando do..while.AssemblyInfoInputs.cache
+C:\Users\henri\OneDrive\Documentos\Estudos de programação\puc-minas\Eixo 1\Algoritimos  e logica de programação\C#\Estrutura de Repetição\Comando do..while\obj\Debug\net9.0\Comando do..while.AssemblyInfo.cs
+C:\Users\henri\OneDrive\Documentos\Estudos de programação\puc-minas\Eixo 1\Algoritimos  e logica de programação\C#\Estrutura de Repetição\Comando do..while\obj\Debug\net9.0\Comando do..while.csproj.CoreCompileInputs.cache
+C:\Users\henri\OneDrive\Documentos\Estudos de programação\puc-minas\Eixo 1\Algoritimos  e logica de programação\C#\Estrutura de Repetição\Comando do..while\obj\Debug\net9.0\Comando do..while.sourcelink.json
+C:\Users\henri\OneDrive\Documentos\Estudos de programação\puc-minas\Eixo 1\Algoritimos  e logica de programação\C#\Estrutura de Repetição\Comando do..while\obj\Debug\net9.0\Comando do..while.dll
+C:\Users\henri\OneDrive\Documentos\Estudos de programação\puc-minas\Eixo 1\Algoritimos  e logica de programação\C#\Estrutura de Repetição\Comando do..while\obj\Debug\net9.0\refint\Comando do..while.dll
+C:\Users\henri\OneDrive\Documentos\Estudos de programação\puc-minas\Eixo 1\Algoritimos  e logica de programação\C#\Estrutura de Repetição\Comando do..while\obj\Debug\net9.0\Comando do..while.pdb
+C:\Users\henri\OneDrive\Documentos\Estudos de programação\puc-minas\Eixo 1\Algoritimos  e logica de programação\C#\Estrutura de Repetição\Comando do..while\obj\Debug\net9.0\Comando do..while.genruntimeconfig.cache
+C:\Users\henri\OneDrive\Documentos\Estudos de programação\puc-minas\Eixo 1\Algoritimos  e logica de programação\C#\Estrutura de Repetição\Comando do..while\obj\Debug\net9.0\ref\Comando do..while.dll
