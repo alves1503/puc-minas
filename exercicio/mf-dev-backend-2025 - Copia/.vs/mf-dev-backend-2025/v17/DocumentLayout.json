@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Henrique Alves\\Documents\\Estudos de programa\u00E7\u00E3o\\puc-minas\\exercicio\\mf-dev-backend-2025 - Copia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{670799EC-630C-4F65-AA88-2D53A7C5AE7B}|mf-dev-backend-2025\\mf-dev-backend-2025.csproj|c:\\users\\henrique alves\\documents\\estudos de programa\u00E7\u00E3o\\puc-minas\\exercicio\\mf-dev-backend-2025 - copia\\mf-dev-backend-2025\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{670799EC-630C-4F65-AA88-2D53A7C5AE7B}|mf-dev-backend-2025\\mf-dev-backend-2025.csproj|solutionrelative:mf-dev-backend-2025\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670799EC-630C-4F65-AA88-2D53A7C5AE7B}|mf-dev-backend-2025\\mf-dev-backend-2025.csproj|c:\\users\\henrique alves\\documents\\estudos de programa\u00E7\u00E3o\\puc-minas\\exercicio\\mf-dev-backend-2025 - copia\\mf-dev-backend-2025\\models\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670799EC-630C-4F65-AA88-2D53A7C5AE7B}|mf-dev-backend-2025\\mf-dev-backend-2025.csproj|solutionrelative:mf-dev-backend-2025\\models\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670799EC-630C-4F65-AA88-2D53A7C5AE7B}|mf-dev-backend-2025\\mf-dev-backend-2025.csproj|c:\\users\\henrique alves\\documents\\estudos de programa\u00E7\u00E3o\\puc-minas\\exercicio\\mf-dev-backend-2025 - copia\\mf-dev-backend-2025\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670799EC-630C-4F65-AA88-2D53A7C5AE7B}|mf-dev-backend-2025\\mf-dev-backend-2025.csproj|solutionrelative:mf-dev-backend-2025\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670799EC-630C-4F65-AA88-2D53A7C5AE7B}|mf-dev-backend-2025\\mf-dev-backend-2025.csproj|c:\\users\\henrique alves\\documents\\estudos de programa\u00E7\u00E3o\\puc-minas\\exercicio\\mf-dev-backend-2025 - copia\\mf-dev-backend-2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670799EC-630C-4F65-AA88-2D53A7C5AE7B}|mf-dev-backend-2025\\mf-dev-backend-2025.csproj|solutionrelative:mf-dev-backend-2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670799EC-630C-4F65-AA88-2D53A7C5AE7B}|mf-dev-backend-2025\\mf-dev-backend-2025.csproj|c:\\users\\henrique alves\\documents\\estudos de programa\u00E7\u00E3o\\puc-minas\\exercicio\\mf-dev-backend-2025 - copia\\mf-dev-backend-2025\\migrations\\20251007060439_m01-addtableveiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670799EC-630C-4F65-AA88-2D53A7C5AE7B}|mf-dev-backend-2025\\mf-dev-backend-2025.csproj|solutionrelative:mf-dev-backend-2025\\migrations\\20251007060439_m01-addtableveiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20251007060439_M01-AddTableVeiculo.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Alves\\Documents\\Estudos de programa\u00E7\u00E3o\\puc-minas\\exercicio\\mf-dev-backend-2025 - Copia\\mf-dev-backend-2025\\Migrations\\20251007060439_M01-AddTableVeiculo.cs",
+              "RelativeDocumentMoniker": "mf-dev-backend-2025\\Migrations\\20251007060439_M01-AddTableVeiculo.cs",
+              "ToolTip": "C:\\Users\\Henrique Alves\\Documents\\Estudos de programa\u00E7\u00E3o\\puc-minas\\exercicio\\mf-dev-backend-2025 - Copia\\mf-dev-backend-2025\\Migrations\\20251007060439_M01-AddTableVeiculo.cs",
+              "RelativeToolTip": "mf-dev-backend-2025\\Migrations\\20251007060439_M01-AddTableVeiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T06:04:39.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Alves\\Documents\\Estudos de programa\u00E7\u00E3o\\puc-minas\\exercicio\\mf-dev-backend-2025 - Copia\\mf-dev-backend-2025\\Program.cs",
+              "RelativeDocumentMoniker": "mf-dev-backend-2025\\Program.cs",
+              "ToolTip": "C:\\Users\\Henrique Alves\\Documents\\Estudos de programa\u00E7\u00E3o\\puc-minas\\exercicio\\mf-dev-backend-2025 - Copia\\mf-dev-backend-2025\\Program.cs",
+              "RelativeToolTip": "mf-dev-backend-2025\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T05:56:47.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Henrique Alves\\Documents\\Estudos de programa\u00E7\u00E3o\\puc-minas\\exercicio\\mf-dev-backend-2025 - Copia\\mf-dev-backend-2025\\appsettings.json",
+              "RelativeDocumentMoniker": "mf-dev-backend-2025\\appsettings.json",
+              "ToolTip": "C:\\Users\\Henrique Alves\\Documents\\Estudos de programa\u00E7\u00E3o\\puc-minas\\exercicio\\mf-dev-backend-2025 - Copia\\mf-dev-backend-2025\\appsettings.json",
+              "RelativeToolTip": "mf-dev-backend-2025\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-07T05:17:10.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Alves\\Documents\\Estudos de programa\u00E7\u00E3o\\puc-minas\\exercicio\\mf-dev-backend-2025 - Copia\\mf-dev-backend-2025\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "mf-dev-backend-2025\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Henrique Alves\\Documents\\Estudos de programa\u00E7\u00E3o\\puc-minas\\exercicio\\mf-dev-backend-2025 - Copia\\mf-dev-backend-2025\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "mf-dev-backend-2025\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T05:45:29.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Alves\\Documents\\Estudos de programa\u00E7\u00E3o\\puc-minas\\exercicio\\mf-dev-backend-2025 - Copia\\mf-dev-backend-2025\\Models\\Veiculo.cs",
+              "RelativeDocumentMoniker": "mf-dev-backend-2025\\Models\\Veiculo.cs",
+              "ToolTip": "C:\\Users\\Henrique Alves\\Documents\\Estudos de programa\u00E7\u00E3o\\puc-minas\\exercicio\\mf-dev-backend-2025 - Copia\\mf-dev-backend-2025\\Models\\Veiculo.cs",
+              "RelativeToolTip": "mf-dev-backend-2025\\Models\\Veiculo.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T05:30:22.764Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

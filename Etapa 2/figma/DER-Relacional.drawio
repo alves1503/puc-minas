@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="DER Relacional" id="DER-Diagram">
+    <mxGraphModel dx="1000" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+
+        <!-- Usuario -->
+        <mxCell id="2" value="Usuario&#xa;-----------------------------&#xa;idUsuario INT PK AI&#xa;nome VARCHAR(100) NOT NULL&#xa;email VARCHAR(100) NOT NULL UNIQUE&#xa;senha VARCHAR(50) NOT NULL&#xa;cpf CHAR(11) NOT NULL UNIQUE&#xa;telefone VARCHAR(15)" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="40" y="60" width="220" height="160" as="geometry"/>
+        </mxCell>
+
+        <!-- Administrador -->
+        <mxCell id="3" value="Administrador&#xa;-----------------------------&#xa;idAdministrador INT PK AI&#xa;usuario VARCHAR(50) NOT NULL UNIQUE&#xa;senha VARCHAR(50) NOT NULL&#xa;email VARCHAR(100) NOT NULL UNIQUE&#xa;nome VARCHAR(100) NOT NULL&#xa;telefone VARCHAR(15)&#xa;acessoAdm BOOLEAN NOT NULL" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="320" y="60" width="260" height="180" as="geometry"/>
+        </mxCell>
+
+        <!-- Denuncia -->
+        <mxCell id="4" value="Denuncia&#xa;-----------------------------&#xa;idDenuncia INT PK AI&#xa;tipoDenuncia VARCHAR(50) NOT NULL&#xa;descricaoDenuncia VARCHAR(255) NOT NULL&#xa;localizacao VARCHAR(150) NOT NULL&#xa;protocolo VARCHAR(20) NOT NULL UNIQUE&#xa;status VARCHAR(20) NOT NULL&#xa;dataCriacao DATETIME NOT NULL&#xa;anonima BOOLEAN NOT NULL&#xa;idUsuario INT FK&#xa;idAdministrador INT FK" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="180" y="300" width="300" height="220" as="geometry"/>
+        </mxCell>
+
+        <!-- Notificacao -->
+        <mxCell id="5" value="Notificacao&#xa;-----------------------------&#xa;idNotificacao INT PK AI&#xa;mensagem VARCHAR(255) NOT NULL&#xa;modoSos BOOLEAN NOT NULL&#xa;idDenuncia INT FK" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="520" y="300" width="260" height="140" as="geometry"/>
+        </mxCell>
+
+        <!-- LocalizacaoTempoReal -->
+        <mxCell id="6" value="LocalizacaoTempoReal&#xa;-----------------------------&#xa;idLocalizacao INT PK AI&#xa;latitude DECIMAL(10,6) NOT NULL&#xa;longitude DECIMAL(10,6) NOT NULL&#xa;dataHora DATETIME NOT NULL&#xa;idNotificacao INT FK" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="820" y="300" width="280" height="160" as="geometry"/>
+        </mxCell>
+
+        <!-- Relacionamentos -->
+        <mxCell id="7" edge="1" parent="1" source="2" target="4" style="endArrow=block;endFill=1;">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="8" edge="1" parent="1" source="3" target="4" style="endArrow=block;endFill=1;">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="9" edge="1" parent="1" source="4" target="5" style="endArrow=block;endFill=1;">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="10" edge="1" parent="1" source="5" target="6" style="endArrow=block;endFill=1;">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
